@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "impostor idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				238,
+				2
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "imposter left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				33,
+				-17
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "impostor right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				41
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				64
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				156,
+				111
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostor up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				139,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "impostor down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "impostor kill",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				67
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "impostor kill",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/c",
+	"position": [
+		40,
+		330
+	],
+	"healthicon": "crewmate",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		160,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

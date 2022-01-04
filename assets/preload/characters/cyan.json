@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				244,
+				403
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "cyan idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				241,
+				408
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cyan LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				242,
+				408
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cyan RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-59,
+				40
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				65,
+				68
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				238,
+				407
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cyan up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				244,
+				410
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cyan DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				-28
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Note MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				67
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico Up note miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyan",
+	"position": [
+		150,
+		570
+	],
+	"healthicon": "3",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		220,
+		200
+	],
+	"camera_position": [
+		160,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
